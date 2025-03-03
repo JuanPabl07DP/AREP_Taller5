@@ -104,6 +104,7 @@ El sistema sigue una arquitectura de tres capas con separación de responsabilid
 
 Video del despliegue:
 
+([Video_DespliegueAWS](./img/202503031807.mp4))
 
 ## 📌 Autor
 
