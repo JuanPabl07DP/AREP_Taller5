@@ -1,6 +1,6 @@
 # Sistema de Gestión de Propiedades Inmobiliarias
 
-
+https://github.com/user-attachments/assets/579d7729-21d1-4c72-8e53-b5a28dc48452
 
 ## 📌 Resumen del Proyecto
 
