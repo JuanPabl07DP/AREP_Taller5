@@ -41,7 +41,7 @@ El sistema sigue una arquitectura de tres capas con separación de responsabilid
 
 ### Diagrama de Arquitectura
 
-falta hacer
+![...](img/Captura%20de%20pantalla%202025-03-03%20173843.png)
 
 ## ✖️ Diseño de Clases
 
