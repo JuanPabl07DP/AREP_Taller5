@@ -1,6 +1,5 @@
 // Configuración de la API
-const API_URL = 'http://localhost:8080/api/properties';
-
+const API_URL = '/api/properties';
 // Referencias a elementos DOM
 const propertyForm = document.getElementById('propertyForm');
 const formTitle = document.getElementById('formTitle');
